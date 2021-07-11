@@ -1,0 +1,15 @@
+.bg-pnk{
+    background-color: #F8257A;
+    color: white;
+
+}
+.pnk{
+    color: #F8257A;
+}
+.img-siz img {
+    height: 130px;
+}
+.no-border{
+    border: 0;
+    background-color: white;
+}
